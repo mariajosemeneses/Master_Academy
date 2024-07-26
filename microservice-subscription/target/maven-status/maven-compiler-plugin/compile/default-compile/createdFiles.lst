@@ -1,0 +1,12 @@
+com\proyecto\subscription\client\http\response\SubscriptionsWithCoursesResponse$SubscriptionsWithCoursesResponseBuilder.class
+com\proyecto\subscription\service\SubscriptionService.class
+com\proyecto\subscription\client\dto\CourseDTO$CourseDTOBuilder.class
+com\proyecto\subscription\client\http\response\SubscriptionsWithCoursesResponse.class
+com\proyecto\subscription\entity\Subscription.class
+com\proyecto\subscription\client\dto\CourseDTO.class
+com\proyecto\subscription\service\SubscriptionServiceImpl.class
+com\proyecto\subscription\entity\Subscription$SubscriptionBuilder.class
+com\proyecto\subscription\MicroserviceSubscriptionApplication.class
+com\proyecto\subscription\controller\SubscriptionController.class
+com\proyecto\subscription\client\CourseClient.class
+com\proyecto\subscription\repository\SubscriptionRepository.class
